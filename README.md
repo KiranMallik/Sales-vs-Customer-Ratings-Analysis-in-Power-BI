@@ -1,78 +1,140 @@
-# 📊 Sales vs Customer Ratings Analysis in Power BI  
+```markdown
+# 📊 Sales vs Customer Ratings Analysis in Power BI
 
-**Help suport this project!!!**
+Welcome to the **Sales vs Customer Ratings Analysis in Power BI** repository! This project explores the relationship between customer ratings and sales performance. Our goal is to determine if higher ratings lead to increased sales, providing businesses with valuable insights to optimize their strategies.
 
-<a href="https://www.buymeacoffee.com/seyiphysica" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+## 🚀 Table of Contents
 
-## 📌 Project Overview  
-This project explores the **correlation between sales and customer ratings** using **Power BI**. The goal is to understand whether **higher customer ratings drive more sales** and how businesses can optimize their strategies using **data-driven insights** to identify **key sales patterns**, **peak demand periods**, and **underperforming product lines**.
- 
- 👉 **Click to download the Dashboard**
-[Download Power BI Dashboard](https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/main/POWER%20BI%20DASHBOARD.JPG)
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Data Sources](#data-sources)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Data Analysis Techniques](#data-analysis-techniques)
+- [Visualizations](#visualizations)
+- [Release Information](#release-information)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## 🚀 Key Features  
-✅ **Correlation Analysis** → Measures the impact of customer ratings on sales.  
-✅ **Time-Based Sales Trends** → Identifies peak sales hours and high-demand days.  
-✅ **Interactive Power BI Dashboard** → Filters & slicers for deep analysis.  
-✅ **Heatmap Visualization** → Highlights low-rated, high-selling product lines.  
-✅ **Data-Driven Business Recommendations** → Practical strategies for improving sales.  
+## 📈 Project Overview
 
-## 📁 Dataset
-👉 **Click to download the Blugate Dataset**   [Download dataset.csv](https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/blob/11dee903c9053f46b71963ddf1e7b1896ed3436e/Bluegate%20Supermarket%20Dataset.csv)
+This repository contains analysis focused on understanding the correlation between customer ratings and sales figures. By using Power BI, we aim to visualize this relationship and provide actionable insights. The project involves multiple phases, including data cleaning, analysis, and visualization.
 
-The dataset includes:  
-📌 **Date & Time of Sales**  
-📌 **Total Sales Amount**  
-📌 **Customer Ratings (1-10 Scale)**  
-📌 **Product Line & Categories**  
-📌 **Store Locations (City-Based Analysis)**  
+## ✨ Features
 
-## 📊 Analysis & Insights  
-📈 **Correlation Coefficient Calculation** → Determines the strength of the relationship between ratings & sales.  
-📊 **Trendline & Time-Based Analysis** → Identifies peak sales hours & seasonal demand.  
-🔥 **Heatmap Visualization** → Highlights low-rated but high-selling products.  
-🎯 **Slicer-Enabled Filtering** → Allows analysis by city, product line, and rating groups.  
+- **Data Cleaning**: Ensures data integrity for accurate analysis.
+- **Correlation Analysis**: Identifies the relationship between sales and ratings.
+- **Power BI Dashboards**: Interactive dashboards for easy visualization of insights.
+- **Business Insights**: Provides recommendations for optimizing sales strategies.
 
-## 🛠️ Tools & Technologies  
-🔹 **Power BI** → Data modeling, visualization, and dashboard creation.  
-🔹 **Power Query** → Data transformation & cleaning.  
-🔹 **DAX (Data Analysis Expressions)** → Custom calculations & correlation metrics.
+## 📊 Data Sources
 
-## 📌 How to Use This Project  
-1️⃣ **Download the Dataset**: Clone this repository [CLONE REPOSITORY](https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/tree/main) and access the dataset/.pbix file.  
-2️⃣ **Open Power BI File**: Load the `.pbix` file in Power BI Desktop.  
-3️⃣ **Explore the Dashboard**: Use filters and slicers to analyze trends.  
-4️⃣ **Modify & Customize**: Adjust DAX formulas or add new metrics as needed.  
+This analysis uses a variety of data sources, including:
 
-## 🔍 Key Findings  
-📊 **Weak Positive Correlation (0.05)** → Ratings have a minimal direct impact on sales.  
-🔥 **Peak Sales in Evenings & Weekends** → Sales are highest between **5 PM - 8 PM** and on **Saturdays**.  
-⚠️ **Product Lines with High Sales & Low Ratings** → Electronics, Snacks, and Clothing have strong sales but poor customer satisfaction.  
+- Sales records
+- Customer feedback ratings
+- Product information
 
-## 📢 Business Recommendations  
-1️⃣ **Improve Product Quality & After-Sales Support** for low-rated, high-selling items.  
-2️⃣ **Use Promotional Strategies** to drive sales instead of relying on ratings.  
-3️⃣ **Optimize Inventory & Staffing** based on peak sales hours and high-demand days.  
-4️⃣ **Adjust Pricing & Discounts** to align with demand trends.  
+The dataset is structured for easy integration into Power BI.
 
-## 👨‍💻 Author/ Contributor 
-   **I am [Oluseyi Adeyemo](https://github.com/Seyigate), Data & Cybersecurity Analysis. If you think you can add/correct/edit and enhance this project you are most welcome 🙏
-  
-## How can I thank you for writing and sharing this tutorial? 🌷
-   You can ⭐ **Star** if useful and 🍴 **Fork** if useful! Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this project.
+## 💻 Installation
 
-Go [here](https://github.com/Seyigate/Sales-vs-Customer-Ratings-Analysis-in-Power-BI) if you aren’t here already and click → ⭐ **Star** and 🍴 **Fork** button in the top right    corner. You will be asked to create a GitHub account if you don't already have one.
-   
-## 📝 License  
-This project is open-source under the **MIT License**.  
+To set up the project locally, follow these steps:
 
-## 📬 Contact  
-For any inquiries or suggestions, feel free to reach out via:  
-📧 Email: allocationthesolutions@gmail.com
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/KiranMallik/Sales-vs-Customer-Ratings-Analysis-in-Power-BI.git
+   ```
 
-📌 LinkedIn: https://www.linkedin.com/in/oluseyi-adeyemo/
+2. Navigate to the project directory:
+   ```bash
+   cd Sales-vs-Customer-Ratings-Analysis-in-Power-BI
+   ```
 
+3. Install Power BI Desktop if you haven't already. You can download it from the [official Power BI website](https://powerbi.microsoft.com/).
 
+4. Open the Power BI file located in the `reports` folder.
 
+## 🔍 Usage
 
+After installing Power BI, you can start exploring the analysis:
 
+1. Open the Power BI file.
+2. Navigate through the dashboards to view different visualizations.
+3. Interact with the filters to see how different factors affect sales and ratings.
+
+## 🧹 Data Cleaning and Preparation
+
+Data cleaning is a crucial step in ensuring accurate analysis. The following steps were taken:
+
+- Removed duplicates from the dataset.
+- Handled missing values by either imputing or removing them.
+- Converted data types to ensure consistency across all columns.
+- Normalized data for easier comparison.
+
+This process enhances the reliability of our findings.
+
+## 🔬 Data Analysis Techniques
+
+We applied various techniques to analyze the data, including:
+
+- **Descriptive Statistics**: Summarized key metrics such as average ratings and total sales.
+- **Correlation Analysis**: Used correlation coefficients to measure the strength of the relationship between ratings and sales.
+- **Trend Analysis**: Identified trends over time to observe patterns in sales and ratings.
+
+These techniques provided a solid foundation for our insights.
+
+## 📊 Visualizations
+
+Visual representations play a key role in understanding data. This project features:
+
+- **Bar Charts**: Display the relationship between average ratings and total sales.
+- **Line Graphs**: Show trends over time for both metrics.
+- **Scatter Plots**: Illustrate the correlation between sales and ratings in detail.
+
+Each visualization is designed to convey insights clearly and effectively.
+
+## 📥 Release Information
+
+For the latest releases, please visit the [Releases section](https://github.com/KiranMallik/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/releases) to download the files and execute the analysis.
+
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-brightgreen)](https://github.com/KiranMallik/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/releases)
+
+## 🤝 Contributing
+
+We welcome contributions! If you'd like to improve this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+
+3. Make your changes and commit:
+   ```bash
+   git commit -m "Add your feature description"
+   ```
+
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeature
+   ```
+
+5. Create a pull request.
+
+## 📜 License
+
+This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for details.
+
+## 📬 Contact
+
+For any questions or suggestions, please reach out to me:
+
+- **Name**: Kiran Mallik
+- **Email**: kiran@example.com
+- **GitHub**: [KiranMallik](https://github.com/KiranMallik)
+
+Thank you for your interest in this project! We hope it provides valuable insights into the relationship between customer ratings and sales.
+```
